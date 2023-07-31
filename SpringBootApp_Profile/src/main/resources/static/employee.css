@@ -1,0 +1,37 @@
+form,.myclass
+{
+	border:outset blue 60px;
+	width:30%;
+	margin-left: 390px;
+	padding: 30px;
+	margin-top: 100px;
+}
+
+label{
+	width: 120px;;
+	float:left;
+	color: darkblue;
+}
+
+input{
+	width: 120px;;
+	margin-top:5px;
+}
+body{
+	background-color: lightgoldenrodyellow;
+}
+
+.error1{
+	border:outset red 6  0px;
+	width:30%;
+	margin-left: 390px;
+	padding: 30px;
+	margin-top: 100px;
+}
+table{
+	border: blue outset;
+	width:60%;
+}
+tr,td,th{
+	border: solid;
+}
